@@ -1,5 +1,6 @@
 import React from "react";
 import mockGetOwnedGames from "../../mock/getownedgames_response.json";
+import Achievements from "./Achievements";
 
 function StatsCard() {
   return (
@@ -12,8 +13,10 @@ function StatsCard() {
         Hours played last 2 weeks:{" "}
         {mockGetOwnedGames.response.games[0].playtime_forever / 60}
       </h1>
-      <div className="flex flex-col mt-4">
-        <h1 className="text-5xl text-white">Achievements</h1>
+      <h1 className="text-5xl text-white font-semibold">Next boss:</h1>
+      <div className="flex flex-col mt-8">
+        <h1 className="text-5xl text-white font-semibold">Achievements</h1>
+        <Achievements />
       </div>
     </div>
   );
