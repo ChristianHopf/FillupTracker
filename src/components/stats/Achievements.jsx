@@ -11,7 +11,10 @@ function Achievements() {
         />
         <div className="flex flex-col mt-2">
           <h1 className="text-xl text-white font-semibold">Enkindle</h1>
-          <h2 className="text-white">Light bonfire flame.</h2>
+          <h2 className="text-white mb-4">Light bonfire flame.</h2>
+          <h2 className="text-stone-500">
+            Achieved: {new Date(1723589024 * 1000).toDateString()}
+          </h2>
         </div>
       </div>
       <div className="flex flex-row w-96 bg-black rounded-md bg-opacity-70">
