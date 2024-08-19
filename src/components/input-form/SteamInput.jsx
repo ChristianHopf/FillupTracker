@@ -6,7 +6,7 @@ function SteamInput() {
     // get achievements
   }
   return (
-    <form className="flex flex-row sticky top-0 gap-6 justify-center items-center bg-black bg-opacity-70 py-8 pb-4">
+    <form className="flex flex-row sticky top-0 gap-6 justify-center items-center bg-black bg-opacity-70 py-4">
       <div className="flex flex-row gap-2 items-center">
         <h2 className="text-white">SteamID</h2>
         <input
