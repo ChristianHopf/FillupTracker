@@ -7,6 +7,7 @@ function Achievements() {
     <div className="flex flex-col gap-8 mt-8">
       {mockResponse.map((achievement) => (
         <AchievementItem
+          key={achievement.unlocktime}
           name={achievement.name}
           description={achievement.description}
           unlocktime={achievement.unlocktime}
