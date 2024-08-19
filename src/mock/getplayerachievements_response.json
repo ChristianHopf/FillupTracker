@@ -1,0 +1,214 @@
+{
+  "playerstats": {
+    "steamID": "76561198099631791",
+    "gameName": "DARK SOULS™: REMASTERED",
+    "achievements": [
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_00",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_01",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_02",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_03",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_04",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_05",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_06",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_07",
+        "achieved": 1,
+        "unlocktime": 1723693325
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_08",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_09",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_10",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_11",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_12",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_13",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_14",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_15",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_16",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_17",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_18",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_19",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_20",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_21",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_22",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_23",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_24",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_25",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_26",
+        "achieved": 1,
+        "unlocktime": 1723589024
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_27",
+        "achieved": 1,
+        "unlocktime": 1723589520
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_28",
+        "achieved": 1,
+        "unlocktime": 1723590679
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_29",
+        "achieved": 1,
+        "unlocktime": 1723692886
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_30",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_31",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_32",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_33",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_34",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_35",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_36",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_37",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_38",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_39",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_40",
+        "achieved": 0,
+        "unlocktime": 0
+      }
+    ],
+    "success": true
+  }
+}
