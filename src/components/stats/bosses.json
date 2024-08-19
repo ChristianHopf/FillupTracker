@@ -1,0 +1,90 @@
+[
+  {
+    "boss": "Asylum Demon",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_28",
+      "achieved": 1,
+      "unlocktime": 1723590679
+    }
+  },
+  {
+    "boss": "Bell Gargoyles",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_29",
+      "achieved": 1,
+      "unlocktime": 1723692886
+    }
+  },
+  {
+    "boss": "Chaos Witch Quelaag",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_30",
+      "achieved": 0,
+      "unlocktime": 0
+    }
+  },
+  {
+    "boss": "Iron Golem",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_33",
+      "achieved": 0,
+      "unlocktime": 0
+    }
+  },
+  {
+    "boss": "Ornstein and Smough",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_34",
+      "achieved": 0,
+      "unlocktime": 0
+    }
+  },
+  {
+    "boss": "Great Grey Wolf Sif",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_32",
+      "achieved": 0,
+      "unlocktime": 0
+    }
+  },
+  {
+    "boss": "Pinwheel",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_31",
+      "achieved": 0,
+      "unlocktime": 0
+    }
+  },
+  {
+    "boss": "Bed of Chaos",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_32",
+      "achieved": 0,
+      "unlocktime": 0
+    }
+  },
+  {
+    "boss": "Gravelord Nito",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_35",
+      "achieved": 0,
+      "unlocktime": 0
+    }
+  },
+  {
+    "boss": "Seath the Scaleless",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_38",
+      "achieved": 0,
+      "unlocktime": 0
+    }
+  },
+  {
+    "boss": "Gwyn, Lord of Cinder",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_01",
+      "achieved": 0,
+      "unlocktime": 0
+    }
+  }
+]

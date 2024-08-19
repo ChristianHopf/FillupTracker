@@ -1,0 +1,16 @@
+
+{
+  "response": {
+    "game_count": 1,
+    "games": [
+      {
+        "appid": 570940,
+        "name": "DARK SOULS™: REMASTERED",
+        "playtime_2weeks": 384,
+        "playtime_forever": 384,
+        "img_icon_url": "d74cfa4f3a2070f45ad8ce44e5f61a6507ee00b6",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}
