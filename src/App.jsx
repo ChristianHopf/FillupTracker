@@ -116,7 +116,6 @@ function App() {
   } else {
     content = (
       <>
-        <Header name={userInfo.personaname} imgUrl={userInfo.avatarmedium} />
         <section className="flex flex-col justify-center mx-auto w-full max-w-6xl">
           <StatsCard hours={hours} achievements={achievements} />
         </section>
