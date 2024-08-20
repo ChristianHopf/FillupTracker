@@ -41,7 +41,7 @@ function App() {
   async function fetchUserInfo() {
     try {
       const response = await fetch(
-        `http://localhost:8080/users/getprofile/${steamId}`
+        `https://lionfish-app-x9raw.ondigitalocean.app/users/getprofile/${steamId}`
       );
       if (!response.ok) {
         console.error(`Error: Received status ${response.status}`);
@@ -64,7 +64,7 @@ function App() {
   async function fetchHours() {
     try {
       const response = await fetch(
-        `http://localhost:8080/users/gethours/${steamId}`
+        `https://lionfish-app-x9raw.ondigitalocean.app/users/gethours/${steamId}`
       );
       if (!response.ok) {
         if (response.status == 400) {
@@ -92,7 +92,7 @@ function App() {
   async function fetchAchievements() {
     try {
       const response = await fetch(
-        `http://localhost:8080/users/getachievements/${steamId}`
+        `https://lionfish-app-x9raw.ondigitalocean.app/users/getachievements/${steamId}`
       );
       if (!response.ok) {
         if (response.status == 400) {
