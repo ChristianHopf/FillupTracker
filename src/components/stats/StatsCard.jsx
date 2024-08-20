@@ -22,6 +22,15 @@ function StatsCard({ hours, achievements }) {
     }
   }
 
+  let achievementsContent = (
+    <h2 className="text-xl text-white">
+      This user hasn't completed any achievements yet.
+    </h2>
+  );
+  if (achievements.length > 0) {
+    <Achievements data={achievements} />;
+  }
+
   return (
     <div className="flex flex-col w-full max-w-6xl rounded-md mt-4 px-4 py-2 gap-8">
       <h1 className="text-5xl text-white font-semibold">
@@ -35,7 +44,7 @@ function StatsCard({ hours, achievements }) {
       </h1>
       <div className="flex flex-col mt-8">
         <h1 className="text-5xl text-white font-semibold">Achievements</h1>
-        <Achievements data={achievements} />
+        {achievementsContent}
       </div>
     </div>
   );
