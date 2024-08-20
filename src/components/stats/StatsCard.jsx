@@ -3,8 +3,6 @@ import Achievements from "./Achievements";
 import bosses from "./bosses.json";
 
 function StatsCard({ hours, achievements }) {
-  // console.log(achievements);
-
   let nextBoss = "";
   // Check each boss in order via bosses.json and find that achievement in the response data.
   // If the boss achievement is not achieved, that's the next boss
@@ -25,7 +23,7 @@ function StatsCard({ hours, achievements }) {
     </h2>
   );
   if (achievements.length > 0) {
-    <Achievements data={achievements} />;
+    achievementsContent = <Achievements data={achievements} />;
   }
 
   return (
