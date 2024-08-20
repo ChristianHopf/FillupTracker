@@ -1,5 +1,4 @@
 import React from "react";
-import mockResponse from "../../mock/getplayerachievements_response.json";
 import AchievementItem from "./AchievementItem";
 
 function Achievements({ data }) {

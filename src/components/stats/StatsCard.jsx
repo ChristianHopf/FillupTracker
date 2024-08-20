@@ -1,7 +1,4 @@
 import React from "react";
-import { useState, useEffect } from "react";
-import mockGetOwnedGames from "../../mock/getownedgames_response.json";
-import mockChieves from "../../mock/getplayerachievements_response.json";
 import Achievements from "./Achievements";
 import bosses from "./bosses.json";
 

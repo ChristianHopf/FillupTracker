@@ -1,5 +1,4 @@
 import React from "react";
-import mockData from "../../mock/getplayersummaries_response.json";
 
 function Header({ name, imgUrl }) {
   console.log(imgUrl);
