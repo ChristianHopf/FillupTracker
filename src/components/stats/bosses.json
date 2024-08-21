@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Asylum Demon",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_28"
+    }
+  },
+  {
+    "name": "Bell Gargoyles",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_29"
+    }
+  },
+  {
+    "name": "Chaos Witch Quelaag",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_30"
+    }
+  },
+  {
+    "name": "Iron Golem",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_33"
+    }
+  },
+  {
+    "name": "Ornstein and Smough",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_34"
+    }
+  },
+  {
+    "name": "Great Grey Wolf Sif",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_32"
+    }
+  },
+  {
+    "name": "Pinwheel",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_31"
+    }
+  },
+  {
+    "name": "Bed of Chaos",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_32"
+    }
+  },
+  {
+    "name": "Gravelord Nito",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_35"
+    }
+  },
+  {
+    "name": "Seath the Scaleless",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_38"
+    }
+  },
+  {
+    "name": "Gwyn, Lord of Cinder",
+    "achievement": {
+      "apiname": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_01"
+    }
+  }
+]

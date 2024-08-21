@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Covenant: Way of White",
+    "description": "Discover Way of White covenant.",
+    "unlocktime": 1723693325,
+    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/570940/c028fb1af748399ebf2888267634e22d87e8632e.jpg"
+  },
+  {
+    "name": "Enkindle",
+    "description": "Light bonfire flame.",
+    "unlocktime": 1723589024,
+    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/570940/b3e4ca8626661bf2a67b7c207dae62088927bba7.jpg"
+  },
+  {
+    "name": "Estus Flask",
+    "description": "Acquire Estus Flask.",
+    "unlocktime": 1723589520,
+    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/570940/1cef9627ae9f7f676d22343778b9b5f52d77c304.jpg"
+  },
+  {
+    "name": "Reach Lordran",
+    "description": "Arrive in Lordran.",
+    "unlocktime": 1723590679,
+    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/570940/2b1c1ecce6ddae50a8cef8a67bcf4c48e9a569a7.jpg"
+  },
+  {
+    "name": "Ring the Bell (Undead Church)",
+    "description": "Ring Bell of Awakening at Undead Church.",
+    "unlocktime": 1723692886,
+    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/570940/37d5a26e0ad900c659043a42f5b77e22acf1b7d4.jpg"
+  }
+]
