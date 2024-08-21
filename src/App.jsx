@@ -165,7 +165,6 @@ function App() {
       style={{ backgroundImage: "url(/images/bg.webp)" }}
     >
       <SteamInput
-        steamId={steamId}
         onChangeSteamId={handleChangeSteamId}
         fetchStats={fetchStats}
       />
