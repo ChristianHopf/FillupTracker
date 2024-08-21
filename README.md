@@ -1,6 +1,6 @@
 # FillupTracker
 
-FillupTracker is a dashboard for viewing a Steam user's DARK SOULS: REMASTERED stats. The [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) is used to fetch the user's profile info, hours played, and achievements.
+FillupTracker is a dashboard for viewing a Steam user's DARK SOULS: REMASTERED stats. The [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) is used to fetch the user's profile info, hours played, and achievements by SteamID.
 
 # React and Vite
 
