@@ -1,8 +1,5 @@
-import React from 'react'
-import { it, expect, describe } from 'vitest'
 import { render, screen } from '@testing-library/react'
-import Header from '../../src/components/header/Header'
-import '@testing-library/jest-dom/vitest';
+import Header from '../../src/components/header/Header.jsx'
 
 describe('Header', () => {
     it('should render', () => {
