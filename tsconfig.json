@@ -6,17 +6,16 @@
             "DOM",
             "DOM.Iterable"
         ],
-        "module": "ESNext",
+        "module": "NodeNext",
         "skipLibCheck": true,
         "types": [
             "vitest/globals"
         ],
         "jsx": "react-jsx",
         "moduleResolution": "NodeNext",
-        "allowImportingTsExtensions": true
+        // "allowImportingTsExtensions": true
     },
     "include": [
-        "src",
         "tests"
     ]
 }
