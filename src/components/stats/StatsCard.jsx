@@ -23,7 +23,7 @@ function StatsCard({ hours, achievements }) {
     </h2>
   );
   if (achievements.length > 0) {
-    achievementsContent = <Achievements data={achievements} />;
+    achievementsContent = <Achievements achievementsList={achievements} />;
   }
 
   return (

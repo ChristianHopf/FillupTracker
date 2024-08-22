@@ -1,13 +1,13 @@
 import React from "react";
 import AchievementItem from "./AchievementItem";
 
-function Achievements({ data }) {
+function Achievements({ achievementsList }) {
   return (
     <div className="flex flex-col gap-8 mt-8">
-      {data.map((achievement) => (
+      {achievementsList.map((achievement) => (
         <AchievementItem
           key={achievement.unlocktime}
-          displayName={achievement.displayName}
+          displayName={achievement.name}
           description={achievement.description}
           unlocktime={achievement.unlocktime}
           icon={achievement.icon}
